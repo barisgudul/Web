@@ -19,11 +19,6 @@ Gelecekte ulaşmayı hedeflediğim profesyonel ve teknik amaçlardan bahsettiği
 - Google Fonts
 - Video ve Görsel Medya
 
-## Kurulum
 
-Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
-1. Projeyi klonlayın:
 
-   ```bash
-   git clone https://github.com/username/kisisel-blog.git
